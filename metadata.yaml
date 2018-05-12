@@ -1,0 +1,31 @@
+_repo: Dr.-Grenfell-s-ParishThe-Deep-Sea-Fisherman_39130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duncan, Norman
+    birthdate: 1871
+    deathdate: 1916
+    gutenberg_agent_id: '9008'
+    url: http://www.gutenberg.org/2009/agents/9008
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Duncan
+description: ''
+gutenberg_issued: '2012-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39130'
+  lccn: 05008702
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Royal National Mission to Deep Sea Fishermen'
+- !lcsh 'Grenfell, Wilfred Thomason, Sir, 1865-1940'
+- !lcsh 'Newfoundland and Labrador -- Description and travel'
+- !lcc 'F1001'
+- !lcsh 'Labrador (N.L.) -- Description and travel'
+title: 'Dr. Grenfell''s Parish: The Deep Sea Fisherman'
+url: http://www.gutenberg.org/ebooks/39130
